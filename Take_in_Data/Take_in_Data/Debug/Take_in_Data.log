@@ -1,0 +1,4 @@
+﻿  ProgramProblem2.cpp
+c:\users\233940\desktop\compsci\take_in_data\take_in_data\programproblem2.cpp(31): warning C4553: '==': operator has no effect; did you intend '='?
+  Take_in_Data.vcxproj -> C:\Users\233940\Desktop\CompSci\Take_in_Data\Debug\Take_in_Data.exe
+  Take_in_Data.vcxproj -> C:\Users\233940\Desktop\CompSci\Take_in_Data\Debug\Take_in_Data.pdb (Partial PDB)
